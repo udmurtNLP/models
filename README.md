@@ -10,3 +10,4 @@
 - [Zerpal-Glot500](https://huggingface.co/udmurtNLP/zerpal-glot500)
 - [Zerpal-rubert-tiny2](https://huggingface.co/udmurtNLP/zerpal-rubert-tiny2)
 - [goldfish-models/udm_cyrl_full gpt2-architecture](https://huggingface.co/goldfish-models/udm_cyrl_full)
+- [jhu-clsp/mmBERT-base](https://huggingface.co/jhu-clsp/mmBERT-base)
